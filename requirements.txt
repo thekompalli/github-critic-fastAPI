@@ -4,3 +4,4 @@ gitpython>=3.1.30
 python-multipart>=0.0.6
 pydantic>=1.10.7
 aiohttp
+python-dotenv
